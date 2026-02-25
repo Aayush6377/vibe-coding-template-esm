@@ -1,0 +1,10 @@
+{
+  "name": "zero-ram-template",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
