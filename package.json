@@ -1,12 +1,13 @@
 {
-  "name": "vibe-coding-template",
+  "name": "arinova-vibe-template",
   "private": true,
   "scripts": {
     "dev": "vite"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
